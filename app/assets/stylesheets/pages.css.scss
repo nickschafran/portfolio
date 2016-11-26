@@ -133,7 +133,7 @@ a.btn:hover,.nav li a:hover,.nav-btn:hover
 }
 .home .jumbotron
 {
-    background: url('/assets/bg.jpg');
+    background: image-url("/assets/bg.jpg");
     background-size: cover;
     min-height: 600px;
     width: 100%;
